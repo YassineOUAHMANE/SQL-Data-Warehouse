@@ -6,7 +6,7 @@ This project demonstrates the creation of a **modern data warehouse** using a la
 
 The architecture follows a **medallion model** (Bronze → Silver → Gold), as shown below:
 
-![Data Warehouse Architecture](Architecture.png)
+![Data Warehouse Architecture](Architecture/DWH.png)
 
 ### 🔶 Bronze Layer – Raw Data
 - **Source**: CSV files from systems like CRM and ERP.
